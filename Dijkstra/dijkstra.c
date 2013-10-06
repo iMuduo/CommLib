@@ -16,7 +16,7 @@ tGraph *CreateGraph(int vertexCount)
 void SetVertex(tGraph *graph,int x,int y,int cost)
 {
 	if(x==y)
-		printf("error path:%d-->%d ! \n",x,y);
+		printf("error path:%d-->%d ... \n",x,y);
 	if(x!=y && graph->graph[x][y]==MAX && graph->graph[y][x]==MAX)
 	{
 		graph->graph[x][y]=cost;
