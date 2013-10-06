@@ -5,6 +5,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LinkList", "LinkList\LinkLi
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Huffman", "Huffman\Huffman\Huffman.vcxproj", "{261AF808-A8CC-4258-8C7C-50B3B5DE4D1B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tree", "Tree\Tree\Tree.vcxproj", "{7F0A23CF-F9B5-45B7-BE6C-175EEDF3992D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Dijkstra", "Dijkstra\Dijkstra.vcxproj", "{DA5C0FF7-91DA-4249-8A2B-3F22068BB68B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -19,6 +23,14 @@ Global
 		{261AF808-A8CC-4258-8C7C-50B3B5DE4D1B}.Debug|Win32.Build.0 = Debug|Win32
 		{261AF808-A8CC-4258-8C7C-50B3B5DE4D1B}.Release|Win32.ActiveCfg = Release|Win32
 		{261AF808-A8CC-4258-8C7C-50B3B5DE4D1B}.Release|Win32.Build.0 = Release|Win32
+		{7F0A23CF-F9B5-45B7-BE6C-175EEDF3992D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7F0A23CF-F9B5-45B7-BE6C-175EEDF3992D}.Debug|Win32.Build.0 = Debug|Win32
+		{7F0A23CF-F9B5-45B7-BE6C-175EEDF3992D}.Release|Win32.ActiveCfg = Release|Win32
+		{7F0A23CF-F9B5-45B7-BE6C-175EEDF3992D}.Release|Win32.Build.0 = Release|Win32
+		{DA5C0FF7-91DA-4249-8A2B-3F22068BB68B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DA5C0FF7-91DA-4249-8A2B-3F22068BB68B}.Debug|Win32.Build.0 = Debug|Win32
+		{DA5C0FF7-91DA-4249-8A2B-3F22068BB68B}.Release|Win32.ActiveCfg = Release|Win32
+		{DA5C0FF7-91DA-4249-8A2B-3F22068BB68B}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

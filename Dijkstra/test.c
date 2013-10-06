@@ -4,13 +4,13 @@
 #include <stddef.h>
 #include <ctype.h>
 
-#define SP ", .;"
+#define SP ", .;" 
 main()
 {
 	int x,y,vertex,*result;
 	char input[1000],*num;
 	tGraph *graph;
-	printf("input vertex count of your gragp:");
+	printf("input vertex count of your gragdddp:")   ;
 	scanf("%d",&vertex);
 
 	graph=CreateGraph(vertex);
